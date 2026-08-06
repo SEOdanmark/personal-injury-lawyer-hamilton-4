@@ -12,194 +12,472 @@
 <link rel="canonical" href="privacy-policy.html">
 <link rel="shortcut icon"  href="img/logo.jpg"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.hamburger span:nth-child(3){
-top: 8px;
-transition: all 0.15s;
+<style type="text/css">
+  .v032db29c6e2383f29353eb2efbc4fc76{
+background: rgba(0, 0, 0, 0.6);
+text-align: center;
 }
-.nav-item .nav-link{
-display: -webkit-flex;
-align-items: center;
-padding: 11.8px 0!important;
-margin: 0px 20.2px!important;
--webkit-align-items: center;
+.z72caa5c1fc3b020fbf915d4f549ff60f .card:last-child{
+margin-bottom: 0;
 }
-.cebb897676c3bc2bfe5c08e22d1cd55a0,.cebb897676c3bc2bfe5c08e22d1cd55a0:active{
-background-color:#ffffff!important;
-border-color:#000000!important;
-color:#000000!important;
-padding: 10.4px 20.2px!important;
-border-radius: 0;
-font-weight: 700!important;
-letter-spacing: 0px;
-transition-property: all;
-transition-duration: .2s;
-min-width: 199.5px !important;
+.c4cada998f8b7188270ba0d03c4eb70d2{
+background:#fbf8f5;
 }
-button.navbar-toggler{
-width: 31.5px;
-height: 17.7px;
-cursor: pointer;
-transition: all 0.2s;
-top: 2rem;
-display: block;
-right: 1.5rem;
-position: absolute;
+.f8d9310c9daf79eda66c810334aa77559 .row-item.cbbbb407838e35a2f816561ba1f97c767{
+background: #ceebf1;
 }
-*{
-font-family: 'DM Sans', sans-serif;
-}
-.dropdown .dropdown-menu .dropdown-item{
-width: auto;
-padding: 0.2em 1.3em 0.2em 1.3em !important;
-}
-.dropdown .dropdown-menu{
-background: #ffffff;
-position: absolute;
-display: none;
-min-width: 49.8px;
-padding-top: 9.7px;
-box-shadow: 0 0 15.1px 0 rgb(0 0 0 / 10%);
-padding-bottom: 9.8px;
-text-align: left;
+.bc76a44760c57123f4e43dd98af38dc16{
+transition: all 0.3s; 
 }
 .navbar{
-background: #ffffff;
-transition: none;
-min-height: 76.5px;
-padding-top: 10.1px;
-padding-bottom: 10px;
+background: black;padding-top:3px;padding-bottom:3px;position:fixed;top:0;width:100%;z-index:10000
+}
+.cbbbb407838e35a2f816561ba1f97c767{
+background:#fbf8f5!important ;
+}
+.f112b29c458b708699f2880d9204d14f4{
+font-size:19px!important;
+color: #6e6e6e;
+}
+.ud825d3e24f8ccffec5485c2004f168fe i{
+border-radius: 50%;
+width: 37.5px;
+line-height: 35px;
+text-align: center;
+height: 36.9px;
+}
+.f8d9310c9daf79eda66c810334aa77559 .wdffaa5422a81b2288593c07c567b4211 *{
+color:#000000;
+}
+.z72caa5c1fc3b020fbf915d4f549ff60f .card .card-header .collapsed{
+color: #171a67;
+}
+.f8d9310c9daf79eda66c810334aa77559 .row-item.z2a43e852ccaa06fbc48cd1cbedffae78{
+background: #c7c4c4;
+}
+.c4cada998f8b7188270ba0d03c4eb70d2 a{
+font-size:19px;
+}
+.f8d9310c9daf79eda66c810334aa77559 p,.{special_content1_class} a,.f8d9310c9daf79eda66c810334aa77559 label{
+font-size:18px!important;
+}
+.x246fd4604a96e55ac4878c3aa81e68d3{
+text-decoration: underline!important;color:#5abd5e!important
+}
+.c4cada998f8b7188270ba0d03c4eb70d2 p,.c4cada998f8b7188270ba0d03c4eb70d2 span,.c4cada998f8b7188270ba0d03c4eb70d2 label{
+font-size:19px!important;
+}
+footer *{
+font-size:19px !important;
+}
+.f8d9310c9daf79eda66c810334aa77559 h4{
+font-size:20px!important;
+}
+body{
+color: #282828;background-color:#fbf8f5!important
+}
+.e293d0965438fdfbca6640170dbccec40{
+color: #515151;
+}
+.f8d9310c9daf79eda66c810334aa77559 .card-img{
+margin-bottom: 1.7rem;
+text-align: left;
+}
+.x03a59ab8ec44c1ee433de086664599fe{
+color: #9a9a9a;
+font-size: 20.3px;
+margin-bottom: 20.7px;
+}
+.z72caa5c1fc3b020fbf915d4f549ff60f .card{
 position: relative;
-z-index: 1000;
-box-shadow: 0 0 14.5px 0 rgb(0 0 0 / 10%);
+z-index: 1;box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+margin-bottom: 1.5rem;
+}
+.x12d3d15e0b62731ff72b53ef220ff38b{
+background-color: #050505;
+font-size: 30.1px;
+height: 56.5px;
+min-width: 55.6px;
+padding: 0.7rem;
+padding-top: 13.1px;
+color: #fff !important;
+border: 1px solid #121212;
+border-radius: 50%;
+}
+.f8d9310c9daf79eda66c810334aa77559 .wdffaa5422a81b2288593c07c567b4211{
+background:#e6efeb!important;
 }
 .nav-link{
-color: #000000!important;
+color: #ffffff;
+
 }
-p, .x8a2d40721f4fe5bd0d81c35399dab24d{
-font-size:1.2rem;
-line-height: 1.68;
-font-weight: 400;
+.z1e76adf53c794556b45301348eebba9b{
+position: relative;
+min-height: 600px;
 }
-.hamburger span:nth-child(1){
-top: 0;
-transition: all 0.2s;
+.f8d9310c9daf79eda66c810334aa77559 .cbbbb407838e35a2f816561ba1f97c767{
+background:#f0e0e0!important;
 }
-.nav-link:hover, .dropdown-item:hover{
- opacity: .75;
-}
-a:hover, a:focus, a.active{
-color:#000000!important;
-}
-.ab33e518f631a107e38f790180678d889 ul{
-padding-left: 0px;
-}
-.cebb897676c3bc2bfe5c08e22d1cd55a0:hover, .cebb897676c3bc2bfe5c08e22d1cd55a0:focus, .cebb897676c3bc2bfe5c08e22d1cd55a0.focus, .cebb897676c3bc2bfe5c08e22d1cd55a0.active{
-color: #ffffff !important;
-background-color: #000000 !important;
-border-color: #000000 !important;
-}
-.w15985f83164dbd7b9915e0068bd1bb1b i{
+.d0c9465b1291e665faa743f178269bac5{
 font-size: 19.8px;
-padding: 10px;
+font-weight: bold;
+}
+.f8d9310c9daf79eda66c810334aa77559 .cbbbb407838e35a2f816561ba1f97c767 *{
+color:#000000;
 }
 a:hover{
-color:#000000!important;
-background: #ffffff!important;
-opacity: .75;
-text-decoration: none;
+color:#ffffff;background:#4caf50!important;
 }
-.ab33e518f631a107e38f790180678d889 *{
-color:#050505;
-font-size:1.2rem!important;
+.f8d9310c9daf79eda66c810334aa77559 .xe1c73b5c029cf1bccf2c43dd8ff5ee2b{
+background:#e6edf5!important ;
 }
-.hamburger span:nth-child(4){
-top: 16px;
-transition: all 0.2s;
+.f8d9310c9daf79eda66c810334aa77559 .z2a43e852ccaa06fbc48cd1cbedffae78 *{
+color:#000000;
 }
-.hamburger span{
-position: absolute;
-right: 0;
-width: 30px;
-height: 2px;
-border-right: 5px;
-background-color: #000000;
-}
-.navbar-nav li:hover>.dropdown-menu{
-display: block;
-}
-.ab33e518f631a107e38f790180678d889{
-padding-top: 4rem;
-padding-bottom: 6rem;
-background-color: #bcd9df;
-bottom: 0;
-z-index: 0;
+.c0626067a4f1d032e37ab040394018c1f{
 width: 100%;
+max-height: 720px;
+object-fit: cover;
+object-position: center;
+display: block;
+max-height: 100%;
+max-width: 100%;
+margin: auto;
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
 }
-.ab33e518f631a107e38f790180678d889 li{
-list-style: none;
-padding-left: 0;
-margin-top: 1.5rem;
-text-align: left;
-color: #000000;
+.f8d9310c9daf79eda66c810334aa77559 .xe1c73b5c029cf1bccf2c43dd8ff5ee2b *{
+color:#000000;
+}
+.navbar-toggler span{
+display: flex;
+align-items: center;
+color:white;
+justify-content: center;
+border: 1px solid lightgrey;
+border-radius: 3px;
+}
+.z72caa5c1fc3b020fbf915d4f549ff60f{
+position: relative;
+z-index: 1;
+}
+.f8d9310c9daf79eda66c810334aa77559 .ua4ffa8c9d535f1e198e4393be13a628f{
+margin-bottom: 1.5rem;
+}
+.f8d9310c9daf79eda66c810334aa77559 .z2a43e852ccaa06fbc48cd1cbedffae78{
+background:#f9ebdc!important;
+}
+.xb634ba8e0f93530e5d39dec2604a1e06{
+position: relative;
+z-index: 1;
+}
+.z0ac244142adcab2805a2b1cd97338e90{
+font-size: 14.4px;
+}
+.f8d9310c9daf79eda66c810334aa77559 .row-item.xe1c73b5c029cf1bccf2c43dd8ff5ee2b{
+background: #f7f5f1;
+}
+*{
+font-family: 'Inconsolata', sans-serif;
+}
+.navbar a{
+font-size: 15.5px!important;text-decoration: none;text-transform:uppercase;
+font-weight: bold;
+}
+.f8d9310c9daf79eda66c810334aa77559 .row-item{
+padding: 3rem;
+padding-top: 3.7rem;
+height: 100%;
+}
+.tb94691b0c58b2d9e15ef4705ca444f0a p,.tb94691b0c58b2d9e15ef4705ca444f0a a,.tb94691b0c58b2d9e15ef4705ca444f0a span,.tb94691b0c58b2d9e15ef4705ca444f0a label{
+font-size:19px!important;
+}
+.z72caa5c1fc3b020fbf915d4f549ff60f .card .card-body p:last-child{
+margin-bottom: 0;
 }
 a{
-color: black;
 text-decoration: none;
 }
-.x6894d4a437ebce4b49800f69c36b7405{
-font-weight: 700 !important;
+.v032db29c6e2383f29353eb2efbc4fc76 *{
+color: white !important;
 }
-.fa-star,.fa-star-half-alt{
-font-size: 15px;
+.wc716a13946e6cf06f637cbae497acd08{
+font-size:48px!important;
 }
-.dropdown-item{
-display: block;
-width: 100%;
-clear: both;
-font-weight: 400;
-color: #212529;
-text-align: inherit;
-white-space: nowrap;
-background-color: transparent;
-border: 0;
+.ya08e509bf1d4dfc688767d421ad8b09e:hover,.daef9869893ed18127449139bc3fadded:hover{
+background-size: 100% 100% !important;
+background: #4caf50!important;
+background-repeat: no-repeat !important;
+background-position: 0 90% !important;
+transition: background-size 0.2s ease-in !important;
 }
-.ab33e518f631a107e38f790180678d889 a{
-color:#050505;
+.bc76a44760c57123f4e43dd98af38dc16:hover{
+box-shadow: 0 50.2px 49.6px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+.z72caa5c1fc3b020fbf915d4f549ff60f .card .card-header span{
+font-size: 1.5rem;
+}
+.nav-item{
+padding-left:7.7px;
+padding-right:8.1px;
+padding-top:4.5px;
+padding-bottom:4.9px;
+}
+footer a{
+color:#0c0c0c;
 text-decoration: underline;
 }
-.ab33e518f631a107e38f790180678d889 .w5af4bfdd409690158d13b11fd72129c9{
-display: flex;
-justify-content: space-between;
-align-items: center;
-padding-top: 1.5rem;
-margin-top: 4rem;
-border-top: 2px solid #050505;
+.tb94691b0c58b2d9e15ef4705ca444f0a{
+background:#fbf8f5;
+color:#0c0c0c;
 }
-.hamburger span:nth-child(2){
-top: 8px;
-transition: all 0.15s;
+.tb94691b0c58b2d9e15ef4705ca444f0a a,.c4cada998f8b7188270ba0d03c4eb70d2 a{
+color:#0c0c0c!important;
+text-decoration: underline !important;
 }
-.navbar-toggler{
--webkit-align-self: flex-start;
--ms-flex-item-align: start;
-align-self: flex-start;
-padding: 0px 0px;
-font-size: 20.4px;
-line-height: 1;
-background: transparent;
-border: 1px solid transparent!important;
-border-radius: 0.25rem;
+iframe{
+border: none!important;
+}
+.z72caa5c1fc3b020fbf915d4f549ff60f .card .card-header .collapsed span{
+-webkit-transform: rotate(-180deg);
+transform: rotate(-180deg);
+}
+.xe1c73b5c029cf1bccf2c43dd8ff5ee2b *{
+color:#000000;
 }
 html{
 scroll-behavior: smooth;
 }
+.xce031b2ecc564ca01362637e21ae2a4f{
+font-size: 2rem !important;
+}
+.ud825d3e24f8ccffec5485c2004f168fe i:hover{
+background: white;
+color: #ffffff;!important;
+line-height: 35px;
+border-radius: 50%;
+width: 37.5px;
+text-align: center;
+height: 36.9px;
+}
+.btn-md{
+padding: 14.9px 30.2px;
+border-radius: 0;
+}
+.f8d9310c9daf79eda66c810334aa77559 .row-item.wdffaa5422a81b2288593c07c567b4211{
+background: #ffecea;
+}
+.z72caa5c1fc3b020fbf915d4f549ff60f .card .card-header{
+cursor: pointer;
+padding: 1.75rem 2rem;  
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-align: center;
+-ms-flex-align: center;
+-ms-grid-row-align: center;
+align-items: center;
+-webkit-box-pack: justify;
+-ms-flex-pack: justify;
+justify-content: space-between;
+}
+footer{
+background:#e2e2e2;
+color:#0c0c0c;
+}
+.y1d280a11a487b86c3ead92b72d41bb23{
+font-size: 48px!important;
+}
+.w839ee03e8488ba77e0b0128f4746db62{
+max-height: 300px;
+overflow-y: auto;
+}
+.z72caa5c1fc3b020fbf915d4f549ff60f .card .card-body{
+padding: 1.75rem 2rem;
+background:#fbf8f5;
+}
+.daef9869893ed18127449139bc3fadded{
+font-weight: inherit;
+background-image: linear-gradient(120deg, #ffcb5d 0%, #ffd769 100%);
+background-repeat: no-repeat;
+background-size: 100% 30%;
+background-position: 0 90%;
+transition: background-size 0.2s ease-in;
+}
+ </style>
+<style type="text/css"> 
+   .parallax-background {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    min-height: 500px; /* Adjust as needed */
+    width: 100%;
+    overflow: hidden;
 
+    border-radius: 20px;
+}
+
+
+.parallax-content {
+    background-color: rgba(255, 255, 255, 0.6);
+    padding:20px 40px;
+    margin: 50px auto; /* Creates space for parallax effect */
+    max-width: 80%;
+    border-radius: 5px;
+    position: relative;
+    z-index: 2;
+}
+@media only screen and (max-width:1000px) {
+.z1e76adf53c794556b45301348eebba9b img{
+position: initial!important;
+}
+.z1e76adf53c794556b45301348eebba9b {
+  min-height: auto;
+}
+.wc716a13946e6cf06f637cbae497acd08 {
+font-size: 20px;
+}
+.x03a59ab8ec44c1ee433de086664599fe {
+font-size: 15px !important;
+}
+.t422dbc7a1b3c17341de0dfdb0c95cd79{
+padding-bottom: 0px !important;
+}
+} 
+.content-image-below {
+    margin: 20px 0;
+    text-align: center;
+}
+.image-align-left ol,.image-align-left ul{
+  margin-left: 51%;
+}
+ 
+/* For background image */
+.content-with-bg-image {
+    background-size: cover;
+    background-position: center;
+    padding: 40px;
+    position: relative;
+}
+
+.content-over-bg {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 5px;
+}
+.content-image-below img,.content-with-side-images img,{
+  max-height: 500px!important;
+
+}
+ 
+ 
+
+/* Text container */
+.text-container {
+    flex: 0 0 60%;
+    max-width: 60%;
+    padding: 0 1rem;
+}
+ 
+
+ /* Main content container */
+.content-with-side-images {
+    width: 100%;
+    max-width: 100%;
+}
+
+/* Headers should always be full width */
+.content-with-side-images h4 {
+    width: 100%;
+    clear: both;
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+/* Regular paragraphs should be full width by default */
+.content-with-side-images p {
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+/* Image-text pair container */
+.image-text-pair {
+    width: 100%;
+    margin:  0px 0;
+   
+}
+
+/* Image container - floated */
+.image-container {
+    width: 50%;
+    
+    box-sizing: border-box;
+ 
+}
+.image-container img:hover{
+
+box-shadow: 0 49.6px 50.3px -25px rgb(0 0 0 / 30%);
+    transform: rotate(-2deg) scale(1.03);
+}
+.image-container img{
+transition: all 0.3s;
+}
+
+/* Left-aligned image */
+.image-align-left .image-container {
+    float: left;
+    margin-right: 20px;
+    margin-left: 0;
+    padding-right: 40px;
+}
+
+/* Right-aligned image */
+.image-align-right .image-container {
+    float: right;
+    margin-left: 20px;
+    margin-right: 0;
+
+    padding-left: 40px;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+ 
+
+/* Clearfix */
+.clearfix {
+    clear: both;
+}
+
+/* Responsive behavior */
+@media (max-width: 768px) {
+    .image-container {
+        width: 100%;
+        float: none !important;
+        margin: 0 0 20px 0 !important;
+        padding: 0;
+    }
+    
+    .text-flow {
+        display: block;
+    }
+} 
+  
 .dropdown-submenu {
     position: relative;
 }
@@ -290,7 +568,16 @@ scroll-behavior: smooth;
         box-shadow: none;
     }
 }
+.accordion .card{
+box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
 
+.accordion .card-header{
+background: white;
+}
+.accordion h4{
+  font-size: 1.3rem;
+}
 /* Use hover only where it exists */
 @media (hover:hover) {
   .dropdown-submenu:hover > .dropdown-menu { display:block; }
@@ -315,46 +602,52 @@ scroll-behavior: smooth;
     overflow-y: auto;
   }
 }
+a{
+  color: black;
+  text-decoration: underline;
+}
+.tag,h3,h2 {
+  background-color: #000;
+  color: #fff!important; 
+  padding-left: 8px;
+  padding-right: 8px;
+  text-align: center;
+ width: fit-content;
+
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 20px;
+ }
+
 </style>
 </head>
 <body>
-<nav class="navbar-expand-lg px-md-5 navbar">
-<a class="navbar-brand" href="index.html"  > 
-<img alt="" src="img/logo.jpg"  >
-</a>
+<nav class="navbar-expand-lg navbar">
+<a class="navbar-brand" href="index.html"  ><img alt="img/logo.jpg" src="img/logo.jpg" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<div class="hamburger"><span></span><span></span><span></span><span></span></div>
-</button>
-<div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="ml-auto navbar-nav">
-<li class="nav-item">
-<a class="x8a2d40721f4fe5bd0d81c35399dab24d nav-link" href="index.html" ><b>Personal Injury Attorney Hamilton</b></a>
+<span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+<ul class="d-flex justify-content-around w-100 align-items-center navbar-nav"><li class="nav-item">
+<a class="nav-link ya08e509bf1d4dfc688767d421ad8b09e" href="index.html" >accident lawyer</a>
 </li>
 <li class="nav-item">
-<a class="nav-link x8a2d40721f4fe5bd0d81c35399dab24d" href="injury-compensation-hamilton.html" ><b>Injury Compensation Hamilton</b></a>
+<a class="nav-link ya08e509bf1d4dfc688767d421ad8b09e" href="injury-compensation.html" >injury compensation</a>
 </li>
 <li class="nav-item">
-<a class="nav-link x8a2d40721f4fe5bd0d81c35399dab24d" href="personal-injury-claims-hamilton.html" ><b>Personal Injury Claims Hamilton</b></a>
+<a class="ya08e509bf1d4dfc688767d421ad8b09e nav-link" href="hamilton-accident-compensation.html" >Hamilton accident compensation</a>
 </li>
 <li class="nav-item">
-<a class="nav-link x8a2d40721f4fe5bd0d81c35399dab24d" href="personal-injury-compensation-hamilton.html" ><b>Personal Injury Compensation Hamilton</b></a>
+<a class="ya08e509bf1d4dfc688767d421ad8b09e nav-link" href="hamilton-injury-claim.html" >Hamilton injury claim</a>
 </li>
-<li class="dropdown nav-item">
-<a class="x8a2d40721f4fe5bd0d81c35399dab24d nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false"><b>More</b></a>
+<li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle ya08e509bf1d4dfc688767d421ad8b09e" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">More</a>
 <div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item x8a2d40721f4fe5bd0d81c35399dab24d" href="motor-vehicle-accident-lawyer-hamilton.html" >Motor Vehicle Accident Lawyer Hamilton</a>
-<a class="dropdown-item x8a2d40721f4fe5bd0d81c35399dab24d" href="slip-and-fall-lawyer-hamilton.html" >Slip and Fall Lawyer Hamilton</a>
-<a class="dropdown-item x8a2d40721f4fe5bd0d81c35399dab24d" href="long-term-disability-lawyer-hamilton.html" >Long-Term Disability Lawyer Hamilton</a>
-<a class="x8a2d40721f4fe5bd0d81c35399dab24d dropdown-item" href="catastrophic-injury-lawyer-hamilton.html" >Catastrophic Injury Lawyer Hamilton</a>
-<a class="dropdown-item x8a2d40721f4fe5bd0d81c35399dab24d" href="wrongful-death-lawyer-hamilton.html" >Wrongful Death Lawyer Hamilton</a>
-<a class="x8a2d40721f4fe5bd0d81c35399dab24d dropdown-item" href="accident-benefits-lawyer-hamilton.html" >Accident Benefits Lawyer Hamilton</a>
-</div>
-</li><li class="nav-item"><a class="nav-link x8a2d40721f4fe5bd0d81c35399dab24d" href="about-us.html"><b>About Us</b></a></li>
-</ul>
+<a class="dropdown-item" href="personal-injury-claims-hamilton.html"  >Personal Injury Claims Hamilton</a><a class="dropdown-item" href="personal-injury-lawsuit.html"  >Personal Injury Lawsuit</a><a class="dropdown-item" href="personal-injury-lawyer.html"  >Personal Injury lawyer</a><a class="dropdown-item" href="personal-injury-claims.html"  >Personal Injury Claims</a><a class="dropdown-item" href="hamilton-injury-lawyer.html"  >Hamilton injury lawyer</a><a class="dropdown-item" href="injury-lawyer.html"  >injury lawyer</a></div>
+</li>
+<li class="nav-item"><a class="nav-link ya08e509bf1d4dfc688767d421ad8b09e" rel=nofollow href="about-us.html">About Us</a>
+</li></ul>
 </div>
 </nav>
-<div>
-<section class="container">
+<section class="container" style="min-height: 80vh; margin-top: 100px;">
 <h1>Privacy Policy for Lalande Personal Injury & Long-Term Disability Lawyers</h1>
 <p>At Lalande Personal Injury & Long-Term Disability Lawyers one of our main priorities is the privacy of our visitors.
  This Privacy Policy document contains types of information that is collected and recorded by Lalande Personal Injury & Long-Term Disability Lawyers and how we use it. You can check out our main website here: https://injured.ca/</p>
@@ -416,32 +709,28 @@ https://injured.ca/</br>
 </br>
 </p>
 </section>
-</div>
-<footer class="ab33e518f631a107e38f790180678d889">
-<div class="container"><div class="row"><div class="col-lg-6">
-<h5 class="c8cbbbe4551afa06fdb0444dd1506de13 x6894d4a437ebce4b49800f69c36b7405 mb-0 td807ab51073f4d175f9c71beca8f2bbe">Lalande Personal Injury & Long-Term Disability Lawyers</h5>
-<ul class="x8a2d40721f4fe5bd0d81c35399dab24d">
-<li> 1 King St W Ste 1705, Hamilton, ON L8P 1A1, Canada</li>
-<li>Company Website : <a class="text-break" href="https://injured.ca/" rel="nofollow">https://injured.ca/</a></li>
-</ul> 
-</div></div><div class="row">
-<div class="col-12">
-<div class="w5af4bfdd409690158d13b11fd72129c9">
-<div><a href="sitemap.html" rel="nofollow">Sitemap | </a>
-<a class="x8a2d40721f4fe5bd0d81c35399dab24d" href="privacy-policy.html" rel="nofollow">Privacy Policy</a> 
-<a href="about-us.html" rel="nofollow">
-<b>About Us</b></a>
-</div><div>
+<footer>
+<div class="pt-5 container py-4" >
+<div class="row"><div class="col-lg-3">
+<p>Lalande Personal Injury & Long-Term Disability Lawyers</p>
+<p>Address : 1 King St W Ste 1705, Hamilton, ON L8P 1A1, Canada</p>
+<p>Company Website : <a class="ya08e509bf1d4dfc688767d421ad8b09e" href="https://injured.ca/" rel="nofollow">https://injured.ca/</a></p>
+</div><div class="col-lg-3"><p><a class="ya08e509bf1d4dfc688767d421ad8b09e" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="ya08e509bf1d4dfc688767d421ad8b09e" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="ya08e509bf1d4dfc688767d421ad8b09e" href="about-us.html" rel="nofollow">About Us</a></p>
+</p>
+</div><div class="col-lg-3">
+<div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/LalandeLawyers " class="w15985f83164dbd7b9915e0068bd1bb1b facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
-<a href="https://ca.linkedin.com/company/lalande-personal-injury-lawyers " class="w15985f83164dbd7b9915e0068bd1bb1b pinterest" rel="nofollow"><i class="fa fa-linkedin"></i></a>
-<a href="https://www.instagram.com/lawyer-matt " class="w15985f83164dbd7b9915e0068bd1bb1b google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
-<a href="https://www.youtube.com/channel/UCfcvaasq6RvUG4S186qOjKQ" class="w15985f83164dbd7b9915e0068bd1bb1b youtube" rel="nofollow"><i class="fa fa-youtube"></i></a>
-<a href="https://x.com/hamiltonlawyer " class="w15985f83164dbd7b9915e0068bd1bb1b twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
-</div></div>
+<a href="https://www.facebook.com/LalandeLawyers " class="facebook ud825d3e24f8ccffec5485c2004f168fe" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://ca.linkedin.com/company/lalande-personal-injury-lawyers " class="ud825d3e24f8ccffec5485c2004f168fe pinterest" rel="nofollow"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.instagram.com/lawyer-matt " class="google ud825d3e24f8ccffec5485c2004f168fe-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+<a href="https://www.youtube.com/channel/UCfcvaasq6RvUG4S186qOjKQ" class="youtube ud825d3e24f8ccffec5485c2004f168fe" rel="nofollow"><i class="fa fa-youtube"></i></a>
+<a href="https://x.com/hamiltonlawyer " class="ud825d3e24f8ccffec5485c2004f168fe twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
 </div>
 </div></div>
-</footer></body>
+</div>
+</footer>
 <script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function() {
 var dropdowns = document.querySelectorAll('.dropdown-hover');
@@ -503,3 +792,5 @@ dropdownMenu.addEventListener('click', handleClick);
   });
 })();
 </script>
+</body>
+</html>
